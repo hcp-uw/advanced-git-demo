@@ -1,1 +1,1 @@
-# Fill me out!!!
+# HCP "Advanced" Git Workshop
